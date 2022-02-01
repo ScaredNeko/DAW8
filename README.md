@@ -5,3 +5,4 @@
 ## Cambio realizado 
  - Hemos incorporado la pagina de registro
  - Próximamente se implementará la página de recuperación de credenciales
+ - Añadida la página de resgistro
